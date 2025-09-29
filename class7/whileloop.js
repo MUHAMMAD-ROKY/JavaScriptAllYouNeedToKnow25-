@@ -19,4 +19,4 @@ while(isRunning){
         console.log("you have got"+' '+ rand +' '+'please try again')
     }
 
-}
+} 
